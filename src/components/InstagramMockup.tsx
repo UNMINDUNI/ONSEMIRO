@@ -181,13 +181,13 @@ export default function InstagramMockup({ character, onClose }: InstagramMockupP
                       )}
                     </button>
                     <button
-                      onClick={() => {
-                        alert(`안녕하세요! 온세미로 입주민 전용 DM 연결망입니다. (이동진: ${isDongjin ? 'Mon-Fri 07-23' : 'Tue-Sun 10-20'})`);
-                      }}
-                      className="flex-1 py-1.5 bg-neutral-800 hover:bg-neutral-700 text-neutral-200 rounded-lg text-xs font-semibold tracking-tight transition-colors focus:outline-none"
-                    >
-                      메시지
-                    </button>
+  onClick={() => {
+    window.open("https://share.crack.wrtn.ai/6btlsw", "_blank");
+  }}
+  className="flex-1 py-1.5 bg-neutral-800 hover:bg-neutral-700 text-neutral-200 rounded-lg text-xs font-semibold tracking-tight transition-colors focus:outline-none"
+>
+  메시지
+</button>
                   </div>
                 </div>
 
