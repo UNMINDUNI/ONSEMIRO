@@ -1,0 +1,6 @@
+{
+  "name": "Onsemiro Building Floor Guide",
+  "description": "마포/성수 핵심 상권, 프리미엄 라이프스타일 센터 온세미로 빌딩의 인터랙티브 층별 안내 및 매장 소개",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
