@@ -63,9 +63,9 @@ export const CHARACTERS: Character[] = [
     role: '온세미로 빌딩 명예 소장 / 1201호 서열 0위',
     age: 10,
     gender: 'Cat',
-    visualBio: '하얗고 품위 어린 턱시도를 걸친 듯 가슴팍만 하얗고 등은 윤기 나는 검은 털을 가진 10살 묘르신.',
+    visualBio: '치즈태비 코리안숏헤어, 10살 묘르신.',
     textBio: '동진의 1201호와 7층 프라이빗 짐을 지키는 진정한 왕. 가끔 헬스장에 발걸음을 옮겨 덤벨 냄새를 킁킁 맡거나 신기한 듯 요가 매트 위에서 그루밍을 펼친다. 온세미로 전 입주민들의 힐링 캐릭터.',
-    temperament: '도도하고 품위가 넘치며 헤드번팅으로 친분을 표시한다. 동진마저 길동이 눈치를 본다.',
+    temperament: '사람 좋아하는 개냥이, 헤드번팅으로 친분을 표시한다. 동진마저 길동이 눈치를 본다.',
     instagramHandle: '@Gildong_The_Cat',
     hashtags: ['#길동이', '#묘르신', '#턱시도냥', '#헬스장지킴이', '#동진이집사'],
     residency: '12F 1201호 안방 한가운데 전용 쿠션 (동진 침대 침범 가능)',
@@ -358,7 +358,7 @@ export const FLOOR_DETAILS: FloorData[] = [
 export const DONGJIN_INSTAGRAM_POSTS: InstagramPost[] = [
   {
     id: 'dj_1',
-    imageUrl: 'https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&q=80&w=600',
+    imageUrl: 'https://i.postimg.cc/pdVdP5Zx/D1.webp?auto=format&fit=crop&q=80&w=600',
     caption: '오늘 새벽 한강 10km 뛰고 7F 짐 오픈. 성수대교 불빛 아래선 덤벨 무게가 가벼워집니다. #오운완 #온세미로짐 #강철의단백질 #어깨루틴_자세_무너진_사람들_빨리_등록하길',
     likes: 421,
     comments: [
@@ -370,11 +370,11 @@ export const DONGJIN_INSTAGRAM_POSTS: InstagramPost[] = [
   },
   {
     id: 'dj_2',
-    imageUrl: 'https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?auto=format&fit=crop&q=80&w=600',
+    imageUrl: 'https://i.postimg.cc/prRGSxv6/G1.webp?auto=format&fit=crop&q=80&w=600',
     caption: '길동이 녀석, 요가 매트 명당자리 차지하고 안 비켜준다... 묘르신 주말 쉼은 덤벨보다 신성하니까 그냥 놔둔다. #길동이 #묘르신 #동진이집사 #온세미로_서열0위',
     likes: 682,
     comments: [
-      { user: 'S_Arem_Hair', text: '길동이 턱시도 주름 너무 이쁘다... 오동통 발 너무 깨물고 싶어요 오빠!!' },
+      { user: 'S_Arem_Hair', text: '길동이 너무 이쁘다... 오동통 발 너무 깨물고 싶어요' },
       { user: 'DJ_Lee_Gym', text: '@S_Arem_Hair 발톱 날카롭다. 만약 오면 츄르 챙겨라.' },
       { user: 'GoldRetriever_Hyeonsoo', text: '길동아 형이랑 스쿼트할까? 😍' },
       { user: 'DJ_Lee_Gym', text: '@GoldRetriever_Hyeonsoo 길동이한테 짖지 마라 현수야. 어제 벤치 자세나 내일 고쳐.' }
@@ -383,8 +383,8 @@ export const DONGJIN_INSTAGRAM_POSTS: InstagramPost[] = [
   },
   {
     id: 'dj_3',
-    imageUrl: 'https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&q=80&w=600',
-    caption: '2층 백반집 곱빼기 제육볶음. 이모님이 고기를 냉면 사발만큼 쌓아 주셨다. "동진이 이 기생오라비 같은 녀석 뒤의 진짜 아가"라며 한 접시 더 주심. 제육 수치는 완전한 아미노 백신이다. #제육은단백질 #백반집 #온세미로맛집 #고기곱빼기',
+    imageUrl: 'https://i.postimg.cc/TY48KLfr/M1.webp?auto=format&fit=crop&q=80&w=600',
+    caption: '2층 백반집 곱빼기 제육볶음. 이모님이 고기를 냉면 사발만큼 쌓아 주셨다.제육 수치는 완전한 아미노 백신이다. #제육은단백질 #백반집 #온세미로맛집 #고기곱빼기',
     likes: 512,
     comments: [
       { user: 'Adrien_Jiho_Salon', text: '난 주말 내내 카푸치노랑 크루아상 우아하게 먹느라 가슴이 무거웠는데 이런 탄소 과적은 반칙 아닙니까 형님?' },
@@ -397,7 +397,7 @@ export const DONGJIN_INSTAGRAM_POSTS: InstagramPost[] = [
 export const JIHO_INSTAGRAM_POSTS: InstagramPost[] = [
   {
     id: 'jh_1',
-    imageUrl: 'https://images.unsplash.com/photo-1562322140-8baeececf3df?auto=format&fit=crop&q=80&w=600',
+    imageUrl: 'https://i.postimg.cc/FzHbcKNr/A1.webp?auto=format&fit=crop&q=80&w=600',
     caption: "C'est magnifique! 가위 끝에서 피어나는 세밀한 불꽃. 오늘 방문하신 입주민의 헤어 텍스처를 프렌치 스칼프 실크 에디션으로 완성해 드렸습니다. 오직 당사자만을 위한 극상의 비율. #SalonDeAdrien #성수동미용실 #이색머리전문 #인생머리메이커",
     likes: 812,
     comments: [
@@ -409,7 +409,7 @@ export const JIHO_INSTAGRAM_POSTS: InstagramPost[] = [
   },
   {
     id: 'jh_2',
-    imageUrl: 'https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?auto=format&fit=crop&q=80&w=600',
+    imageUrl: 'https://d394jeh9729epj.cloudfront.net/8Q8hK5lD6a4-KKKOSlpINUxQ/55aca418-0231-4eca-8515-1b2dd9e8f9c7.webp?auto=format&fit=crop&q=80&w=600',
     caption: '1202호 한강 전망 테라스 와인 아틀리에. 보르도 와인 숨결과 한강 센셋의 마리아주는 마음의 헤어 스케치를 유려하게 만듭니다. Mon ami 동진 형님, 가벽 넘어 턱걸이 그만하고 와인 한 모금 어때? #1202호 #선셋와인 #성수동일몰 #와인앤컷 #안티크클래식',
     likes: 934,
     comments: [
@@ -421,7 +421,7 @@ export const JIHO_INSTAGRAM_POSTS: InstagramPost[] = [
   },
   {
     id: 'jh_3',
-    imageUrl: 'https://images.unsplash.com/photo-1543257580-7269da773bf5?auto=format&fit=crop&q=80&w=600',
+    imageUrl: 'https://i.postimg.cc/3JBRVZXZ/JH1.webp?auto=format&fit=crop&q=80&w=600',
     caption: '귀여운 막내 우진이와 정겹게 모닝 에스프레소 가위 빗질 크루 셋팅. 2층 백반집 이모님 시선 한 방에 무너지고 등 짝궁 철썩 맞았지만 우리 아트 살롱은 언제나 우아하게 개척합니다. C\'est la vie! #온세미로빌딩 #가위손가족 #커피앤스타일 #바리스타그램 #프렌치헤어',
     likes: 721,
     comments: [
