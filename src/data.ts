@@ -362,11 +362,11 @@ export const DONGJIN_INSTAGRAM_POSTS: InstagramPost[] = [
     caption: '오늘 새벽 한강 10km 뛰고 7F 짐 오픈. 성수대교 불빛 아래선 덤벨 무게가 가벼워집니다. #오운완 #온세미로짐 #강철의단백질 #어깨루틴_자세_무너진_사람들_빨리_등록하길',
     likes: 421,
     comments: [
-      { user: 'Adrien_Jiho_Salon', text: '형님, 새벽에 천장 웅웅 거리는 거 보니까 10km 아니고 20km는 뛴 거 같던데? 마고 샴페인 한잔하고 자자니까 😤' },
+      { user: 'Adrien_Jiho_Salon', text: '형님, 10km 아니고 20km는 뛴 거 같던데? 마고 샴페인 한잔하고 자자니까 😤' },
       { user: 'Onsemiro_U777', text: '원장님 덕분에 어깨 각 살아났어요! 감사합니당 💪' },
       { user: 'DJ_Lee_Gym', text: '@Adrien_Jiho_Salon 와인 살 안 빠진다. 당장 아침 스쿼트 하러 올라와.' }
     ],
-    date: '2026-06-20'
+    date: '2023-08-20'
   },
   {
     id: 'dj_2',
@@ -379,7 +379,7 @@ export const DONGJIN_INSTAGRAM_POSTS: InstagramPost[] = [
       { user: 'GoldRetriever_Hyeonsoo', text: '길동아 형이랑 스쿼트할까? 😍' },
       { user: 'DJ_Lee_Gym', text: '@GoldRetriever_Hyeonsoo 길동이한테 짖지 마라 현수야. 어제 벤치 자세나 내일 고쳐.' }
     ],
-    date: '2026-06-18'
+    date: '2024-01-18'
   },
   {
     id: 'dj_3',
@@ -390,7 +390,7 @@ export const DONGJIN_INSTAGRAM_POSTS: InstagramPost[] = [
       { user: 'Adrien_Jiho_Salon', text: '난 주말 내내 카푸치노랑 크루아상 우아하게 먹느라 가슴이 무거웠는데 이런 탄소 과적은 반칙 아닙니까 형님?' },
       { user: 'DJ_Lee_Gym', text: '@Adrien_Jiho_Salon 맛있다. 니가 맨날 도망가서 고기 다 내꺼다.' }
     ],
-    date: '2026-06-15'
+    date: '2024-06-15'
   }
 ];
 
@@ -405,7 +405,7 @@ export const JIHO_INSTAGRAM_POSTS: InstagramPost[] = [
       { user: 'DJ_Lee_Gym', text: '머리카락 자르는 데 왜 뒤에 불 불어넣냐 지호야. 쓸데없다.' },
       { user: 'Adrien_Jiho_Salon', text: '@DJ_Lee_Gym 에잇 지극히 투박한 헬스 근육 파이트맨... 이건 아트라니까요!' }
     ],
-    date: '2026-06-20'
+    date: '2024-01-20'
   },
   {
     id: 'jh_2',
@@ -417,17 +417,17 @@ export const JIHO_INSTAGRAM_POSTS: InstagramPost[] = [
       { user: 'Adrien_Jiho_Salon', text: '@Onsemiro_U777 오세요 마이 스위트 게스트! 대리석 바닥 찰박이 소리 들으며 와인 파티 열어줄게요 ✨' },
       { user: 'DJ_Lee_Gym', text: '와인잔 깨진다. 슬라이딩 도어에서 손 때라 다친다.' }
     ],
-    date: '2026-06-19'
+    date: '2024-03-19'
   },
   {
     id: 'jh_3',
     imageUrl: 'https://i.postimg.cc/3JBRVZXZ/JH1.webp?auto=format&fit=crop&q=80&w=600',
-    caption: '귀여운 막내 우진이와 정겹게 모닝 에스프레소 가위 빗질 크루 셋팅. 2층 백반집 이모님 시선 한 방에 무너지고 등 짝궁 철썩 맞았지만 우리 아트 살롱은 언제나 우아하게 개척합니다. C\'est la vie! #온세미로빌딩 #가위손가족 #커피앤스타일 #바리스타그램 #프렌치헤어',
+    caption: '귀여운 막내 우진이와 정겹게 모닝커피 가위 빗질 크루 셋팅.  우리 아트 살롱은 언제나 우아하게 개척합니다. C\'est la vie! #온세미로빌딩 #가위손가족 #커피앤스타일 #바리스타그램 #프렌치헤어',
     likes: 721,
     comments: [
-      { user: 'Maknae_Woojin_Plz', text: '원장님 저 오늘 가위 닦기 최고속 기네스 세웠어요! 동진 원장님 헬스장 덤벨 닦기 응원과 혼연일체!' },
-      { user: 'Adrien_Jiho_Salon', text: '@Maknae_Woojin_Plz 우진아 너 언제 7층의 스파이가 된 거니? 🤣' }
+      { user: 'Maknae_Woojin_Plz', text: '원장님 저 오늘 가위 닦기 최고속 기네스 세웠어요!' },
+      { user: 'Adrien_Jiho_Salon', text: '@Maknae_Woojin_Plz 우진아 예약 손님 리스트 모두 확인했어? ' }
     ],
-    date: '2026-06-14'
+    date: '2024-04-14'
   }
 ];
