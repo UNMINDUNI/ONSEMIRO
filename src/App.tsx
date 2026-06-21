@@ -293,7 +293,7 @@ export default function App() {
                         className="self-start sm:self-center flex items-center gap-1.5 text-xs text-[#c5a059] hover:text-[#a78546] font-mono transition-colors focus:outline-none"
                       >
                         <Instagram className="w-3.5 h-3.5" />
-                        <span>{selectedChar.instagramHandle} 피드 보기</span>
+                        <span>{selectedChar.instagramHandle}_</span>
                       </button>
                     )}
                   </div>
